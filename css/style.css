@@ -13,3 +13,7 @@
 .navbar .nav-link:hover {
     color: #add8e6 !important;
 }
+
+.profile-pic {
+    width: 150px;
+}
